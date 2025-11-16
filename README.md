@@ -87,7 +87,7 @@ dev-research-assistant/
 ### **1. Clone the repository**
 
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/AyaanShaheer/dev-research-assistant.git
 cd dev-research-assistant
 ```
 
@@ -232,8 +232,8 @@ MIT License — free to use, modify, or extend.
 
 **Ayaan Shaheer**
 
-* GitHub: *your link here*
-* LinkedIn: *your link here*
+* GitHub: [https://github.com/AyaanShaheer](mailto:AyaanShaheer)
+* LinkedIn: [https://www.linkedin.com/in/ayaan-shaheer-74a087230/](mailto:Ayaan Shaheer)
 * Email: [gfever252@gmail.com](mailto:gfever252@gmail.com)
 
 ---
