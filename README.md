@@ -233,7 +233,7 @@ MIT License — free to use, modify, or extend.
 **Ayaan Shaheer**
 
 * GitHub: [https://github.com/AyaanShaheer](mailto:AyaanShaheer)
-* LinkedIn: [https://www.linkedin.com/in/ayaan-shaheer-74a087230/](mailto:Ayaan Shaheer)
+* LinkedIn: [https://www.linkedin.com/in/ayaan-shaheer-74a087230/](mailto:AyaanShaheer)
 * Email: [gfever252@gmail.com](mailto:gfever252@gmail.com)
 
 ---
